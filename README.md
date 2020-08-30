@@ -1,2 +1,5 @@
 # hello-world
-some programs
+
+Hi humans!
+
+I love python and js java
